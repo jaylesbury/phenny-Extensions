@@ -1,0 +1,10 @@
+{
+	"bitly": {
+		"login": "username",
+		"apikey": "apikey"
+	},
+	"what": {
+		"cookie": "session=whatSession"
+	}
+}
+

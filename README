@@ -1,0 +1,3 @@
+This is a set of module files for the IRCBOT phenny. They are intended to be useful extensions to the defaults supported by phenny.
+
+In order to use, simply place the files here in the phenny/modules folder.
