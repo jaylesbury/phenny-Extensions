@@ -3,6 +3,7 @@
 ping.py - Phenny Ping Module
 Author: Sean B. Palmer, inamidst.com
 About: http://inamidst.com/phenny/
+Modified by phenny-Extensions
 """
 
 import random
