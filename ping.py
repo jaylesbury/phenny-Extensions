@@ -33,5 +33,10 @@ def notaword(phenny, input):
    phenny.say(input.nick + ': not a word')
 notaword.rule =r'.* vatch.*|vatch.*'
 
+def noop(phenny, input):
+   word = random.choice(('NOOPATRON!', "I'll noop you", 'vatch'))
+   phenny.say(input.nick + ': ' + word)
+noop.rule = r'.* noop.*|noop.*'
+
 if __name__ == '__main__': 
    print __doc__.strip()
